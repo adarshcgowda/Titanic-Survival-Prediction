@@ -1,6 +1,5 @@
 # Titanic-Survival-Prediction
 
-Hey There🖐, I will walk you through out the notebook. This Kernal is dedicated for beginners. Here you are going to obtain the predictive model with ~86% accurancy. (Jump to Content for overview of the notebook). So without further delay lets start.
 ![1](https://github.com/adarshcgowda/Titanic-Survival-Prediction/assets/82589860/b03d9350-a9ac-4f68-a02a-63d2975880cb)
 
 
